@@ -111,18 +111,14 @@ Although research-oriented, the project includes a full implementation:
 
 Full paper available:
 👉 `./paper/research_paper.pdf`
-
 ---
-
 ## ▶️ Run the Project
-
 ```bash
 git clone <repo-url>
 cd <repo-name>
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
 ---
 
 ## 🔮 Future Work
@@ -130,13 +126,10 @@ streamlit run app.py
 * Integrate **real-time sentiment data**
 * Apply **deep learning models (LSTM, Transformers)**
 * Extend to **other emerging markets**
-
 ---
 
 ## 👤 Author
-
 Nguyen Hoang Dong
-
 ---
 
 <p align="center">
